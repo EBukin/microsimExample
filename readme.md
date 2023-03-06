@@ -2,7 +2,7 @@
 
 Here we create a new microsimulation for...
 
-To run it
+To run it. Somthing was wrong here.
 
 1.  Stata installed.
 2.  Data storred locally from...
