@@ -10,4 +10,6 @@ To run it, one needs to have:
 
 Use `master.do` to launch the project.
 
+- Other do-files contain the code.
+
 Use issues to alert developers about a problem or contact Eduard per email.
